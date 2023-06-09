@@ -1,4 +1,4 @@
-Bitcoin Price Monitor
+#Bitcoin Price Monitor
 This Python script fetches the current price of Bitcoin (BTC) in USD using the CoinGecko API and displays it along with the timestamp. The script updates the price every 10 seconds.
 
 Prerequisites

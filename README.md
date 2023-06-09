@@ -7,7 +7,7 @@ requests library (install using pip install requests)
 Usage
 Clone the repository or download the bitcoin_price_monitor.py file.
 Install the required requests library if not already installed: pip install requests.
-Run the script: python bitcoin_price_monitor.py.
+Run the script: python price.py.
 The script will continuously display the current Bitcoin price and the corresponding timestamp every 10 seconds.
 
 # API Key (Optional)

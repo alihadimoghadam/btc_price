@@ -4,7 +4,7 @@ This Python script fetches the current price of Bitcoin (BTC) in USD using the C
 # Prerequisites
 Python 3.x
 requests library (install using pip install requests)
-Usage
+# Usage
 Clone the repository or download the bitcoin_price_monitor.py file.
 Install the required requests library if not already installed: pip install requests.
 Run the script: python price.py.
